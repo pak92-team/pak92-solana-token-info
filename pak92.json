@@ -1,13 +1,13 @@
 {
   "name": "PakaCoin",
   "symbol": "PAK92",
-  "description": "PAK92 is a meme token born from community energy — where culture meets crypto. What begins as humor grows into influence, creativity, and real connection.\n\nBuilt on BNB Chain, PAK92 celebrates collective fun and digital culture.\n\n⚠️ This project does not promote or solicit any form of investment — it exists solely for creative and community purposes.",
-  "image": "https://YOUR_LINK/pak92.png",
+  "description": "PAK92 is a meme token born from community energy — where culture meets crypto. Built on Solana, PAK92 celebrates collective joy, creativity, and digital culture. This project does not promote or solicit investment; it exists purely for creative and community purposes.",
+  "image": "https://raw.githubusercontent.com/pak92-team/pak92-solana-token-info/main/logo.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://YOUR_LINK/pak92.png",
+        "uri": "https://raw.githubusercontent.com/pak92-team/pak92-solana-token-info/main/logo.png",
         "type": "image/png"
       }
     ],
