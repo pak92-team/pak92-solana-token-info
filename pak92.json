@@ -1,0 +1,16 @@
+{
+  "name": "PakaCoin",
+  "symbol": "PAK92",
+  "description": "PAK92 is a meme token born from community energy — where culture meets crypto. What begins as humor grows into influence, creativity, and real connection.\n\nBuilt on BNB Chain, PAK92 celebrates collective fun and digital culture.\n\n⚠️ This project does not promote or solicit any form of investment — it exists solely for creative and community purposes.",
+  "image": "https://YOUR_LINK/pak92.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://YOUR_LINK/pak92.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
